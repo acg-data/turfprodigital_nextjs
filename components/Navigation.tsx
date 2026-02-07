@@ -59,6 +59,12 @@ export default function Navigation() {
               Packages
             </button>
             <Link 
+              href="/tools" 
+              className="text-sm font-semibold text-slate-600 hover:text-brand-600 transition-colors"
+            >
+              Tools
+            </Link>
+            <Link 
               href="/blog" 
               className="text-sm font-semibold text-slate-600 hover:text-brand-600 transition-colors"
             >
@@ -110,6 +116,14 @@ export default function Navigation() {
             >
               Packages
             </button>
+            <Link 
+              href="/tools" 
+              onClick={closeMobileMenu}
+              className="block w-full text-left px-4 py-3 text-slate-700 font-medium hover:bg-slate-50 rounded-lg transition-colors"
+              data-testid="link-mobile-tools"
+            >
+              Tools
+            </Link>
             <Link 
               href="/blog" 
               onClick={closeMobileMenu}

@@ -1,4 +1,4 @@
-:HL["/_next/static/chunks/ae1d4e270b65c4bd.css","style"]
+:HL["/_next/static/chunks/4d7e6a819927740e.css","style"]
 :HL["https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg","image"]
 :HL["/18798335e65a9a1b88923fe4abf0155afffac8db-1.png","image"]
 :HL["/logo-white.png","image"]
@@ -9,4 +9,4 @@
 :HL["/portfolio-mulchmasters.png","image"]
 :HL["/image.png","image"]
 :HL["/image copy.png","image"]
-0:{"buildId":"kf7DO5TDd_LgbFgC7DQTT","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"00XMOGtbxEYvgjmeuX1_V","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
