@@ -56,6 +56,12 @@ export default function Navigation() {
               onClick={() => scrollToSection('pricing')} 
               className="text-sm font-semibold text-slate-600 hover:text-brand-600 transition-colors"
             >
+            <Link 
+              href="/locations" 
+              className="text-sm font-semibold text-slate-600 hover:text-brand-600 transition-colors"
+            >
+              Locations
+            </Link>
               Packages
             </button>
             <Link 
@@ -107,6 +113,14 @@ export default function Navigation() {
               className="block w-full text-left px-4 py-3 text-slate-700 font-medium hover:bg-slate-50 rounded-lg transition-colors"
               data-testid="link-mobile-work"
             >
+            <Link 
+              href="/locations" 
+              onClick={closeMobileMenu}
+              className="block w-full text-left px-4 py-3 text-slate-700 font-medium hover:bg-slate-50 rounded-lg transition-colors"
+              data-testid="link-mobile-locations"
+            >
+              Locations
+            </Link>
               Work
             </button>
             <button 
