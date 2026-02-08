@@ -1,6 +1,6 @@
-:HL["/_next/static/chunks/4d7e6a819927740e.css","style"]
+:HL["/_next/static/chunks/e7a42b5f9118bd02.css","style"]
 :HL["/blog-spring-feeding-header.jpg","image"]
 :HL["/blog-lawn-aeration-header.png","image"]
 :HL["/blog-digital-marketing-header.png","image"]
 :HL["/GwIzX24WAAAVxLJ.png","image"]
-0:{"buildId":"8iNclzc0ErOPBalxamRQ-","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"blog","paramType":null,"paramKey":"blog","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"BXGbD4KK9gtPfIYFOUXLt","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"blog","paramType":null,"paramKey":"blog","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}

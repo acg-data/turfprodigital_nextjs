@@ -49,4 +49,14 @@ export const cities: City[] = [
   { slug: "trenton", name: "Trenton", state: "New Jersey", stateCode: "NJ", stateSlug: "new-jersey", population: 90000, county: "Mercer County", competitors: 32, medianIncome: 39000, description: "As New Jersey's capital, Trenton has government properties." },
   // Delaware
   { slug: "wilmington", name: "Wilmington", state: "Delaware", stateCode: "DE", stateSlug: "delaware", population: 71500, county: "New Castle County", competitors: 29, medianIncome: 48000, description: "Wilmington's banking industry creates a strong landscaping market." },
-  // Ver
+  // Vermont
+  { slug: "burlington", name: "Burlington", state: "Vermont", stateCode: "VT", stateSlug: "vermont", population: 45000, county: "Chittenden County", competitors: 19, medianIncome: 52000, description: "Burlington's eco-conscious culture creates demand for sustainable landscaping." }
+];
+
+export const getCityBySlugAndState = (slug: string, stateCode: string): City | undefined => {
+  return cities.find(c => c.slug === slug && c.stateCode === stateCode);
+};
+
+export const getCitiesByState = (stateCode: string): City[] => {
+  return cities.filter(c => c.stateCode === stateCode);
+};
